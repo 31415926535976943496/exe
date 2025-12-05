@@ -1,0 +1,9 @@
+{
+  "name": "SecureChat Admin System",
+  "description": "A secure chat application with admin management, IP tracking, friend system, and simulated voice/video calling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
